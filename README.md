@@ -1,4 +1,4 @@
-# Population-Dashboard
+# World Population-Dashboard
 Dashboard of Country Data
 
 Streamlit was used to create the interactive web application known as Country Data Dashboard. This Dashboard gives users access to country-specific data and visualizations, such as interactive maps, demographic information, and geographic specifics.
